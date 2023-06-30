@@ -1,0 +1,10 @@
+firstName:camel case
+FirstName:pascal case
+first_name:Snakecase
+first-name:kebabcase
+
+def circle():
+    pass
+
+def square():
+    #logic for square

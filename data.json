@@ -1,0 +1,13 @@
+{
+    "employee":{
+    "name":"anees",
+    "salary":"50000",
+    "job description":{
+    "role":"Frontend developer",
+    "department":"FSADM",
+    "experience":"4"
+    },
+    "location":"bangalore"
+    }
+}
+    
